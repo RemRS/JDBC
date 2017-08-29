@@ -1,4 +1,4 @@
-#№ JDBC
+## JDBC
 
 Пример работы с JDBC. В PostgreSQL было создано 3 таблицы: Provider, Provider_curr, Provider_country. У таблицы Provider отношение к двум другим таблицам Many to Many, поэтому также созданы 2 таблицы ссылок. (Стрелочка от provcurr к provider нарисована не в ту сторону, должна быть развернута).
 
